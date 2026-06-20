@@ -1,3 +1,4 @@
+
 # 📄 Resume Job Match AI
 
 An AI-powered ATS (Applicant Tracking System) Resume Analyzer that compares a candidate’s resume with a job description and calculates job compatibility using skill matching and semantic analysis.
@@ -6,7 +7,7 @@ An AI-powered ATS (Applicant Tracking System) Resume Analyzer that compares a ca
 
 ## 🚀 Live Demo
 
-(Add your Streamlit deployed link here)
+https://resume-job-match-ai-aohugk6npm5wf9jvydfc6r.streamlit.app/
 
 ---
 
@@ -83,15 +84,15 @@ Final Score = (Keyword Score × 0.4) + (AI Score × 0.6)
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home%20page.png)
 
 ### Analysis Dashboard
 
-![Analysis Dashboard](screenshots/analysis.png)
+![Analysis Dashboard](screenshots/Analysis%20page.png)
 
 ### ATS Report Download
 
-![Report Download](screenshots/report.png)
+![Report Download](screenshots/ATS%20button.png)
 
 ---
 
@@ -152,4 +153,4 @@ Built an AI-powered ATS Resume Analyzer using Python, NLP, and Streamlit to auto
 **Akanksha Kumari Sinha**
 
 * GitHub: https://github.com/akank275
-* LinkedIn: Add your LinkedIn profile here
+
